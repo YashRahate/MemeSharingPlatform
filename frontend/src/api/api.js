@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000';
+const API_URL = 'https://memesharingplatform-backend.onrender.com';
 
 // Create axios instance with base configuration
 const api = axios.create({
