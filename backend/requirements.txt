@@ -5,5 +5,4 @@ cloudinary
 python-dotenv
 pymongo
 Werkzeug
-bson
 bcrypt
