@@ -27,7 +27,7 @@ const HomePage = () => {
       setLoading(true);
       const skip = reset ? 0 : page * 10;
       
-      const response = await axios.get(`http://localhost:5000/api/memes/feed?skip=${skip}&limit=10`, {
+      const response = await axios.get(`https://memesharingplatform-backend.onrender.com/api/memes/feed?skip=${skip}&limit=10`, {
         headers: {
           Authorization: `Bearer ${token}`
         }
