@@ -49,7 +49,7 @@ const handleSubmit = async (e) => {
     
     console.log('Token being used:', token);
     
-    const response = await axios.post('http://localhost:5000/api/memes/', formData, {
+    const response = await axios.post('https://memesharingplatform-backend.onrender.com/api/memes/', formData, {
       headers: {
         'Authorization': `Bearer ${token}` // Make sure token is not null or undefined
       }
