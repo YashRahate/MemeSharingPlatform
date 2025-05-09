@@ -67,7 +67,7 @@ As digital content consumption grows, platforms enabling user-generated content 
 ## ✅ Conclusion
 
 The Meme Platform successfully delivers a social media experience tailored for meme sharing and interaction. Using modern web technologies, the system is robust, scalable, and user-friendly.
-
+## Implementation Screenshots present in [Meme-Sharing-Platform-report.pdf](https://github.com/YashRahate/MemeSharingPlatform/blob/main/Meme-Sharing-Platform-report.pdf) 
 ## 🔗 References
 
 - [React Docs](https://react.dev/)
